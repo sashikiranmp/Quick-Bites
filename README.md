@@ -1,5 +1,3 @@
----
-
 # Quick Bites
 
 A full-stack food ordering web application for students and stall owners, featuring chat, reviews, payments, and more.
@@ -148,13 +146,3 @@ npm run dev
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you want to customize any section or add more details!
